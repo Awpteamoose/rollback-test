@@ -101,7 +101,7 @@ GameObject:
   - component: {fileID: 227674578}
   - component: {fileID: 227674577}
   m_Layer: 0
-  m_Name: DeterministicController
+  m_Name: DeterministicSimulation
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
